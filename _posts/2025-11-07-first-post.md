@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "My First Post"
 date: 2025-11-07
 ---
