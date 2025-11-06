@@ -1,5 +1,3 @@
-# bora-dori.github.io
-
 Hi there! 👋  
 I'm **Jiwon Han**, a biological sciences graduate currently diving into **data analytics and programming**.  
 This repository serves as my **personal study log and project archive**.
